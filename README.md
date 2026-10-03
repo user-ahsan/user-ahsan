@@ -1,125 +1,140 @@
 <div align="center">
 
-# Ahsan Ali
+<img width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/output/match.gif?raw=true" />
 
-**Software Engineer & Automation Developer**
+# hey, I'm Ahsan 👋
 
-BS Computer Science — University of Central Punjab, Lahore
+### I turn messy business workflows into software that actually works.
 
-I build automation pipelines, AI-powered tools, and full-stack apps. I work directly with business owners to turn messy workflows into working software — dashboards, booking systems, scrapers, and bots that cut out manual data entry.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahsanali.cc-blue?style=flat&logo=google-chrome&logoColor=white)](https://ahsanali.cc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-ali21)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahsansheikhoffice@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-ahsanali.cc-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahsanali.cc)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-ali21)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsansheikhoffice@gmail.com)
 
 </div>
 
 ---
 
-## Tech Stack
+### 🧠 currently building stuff with
 
-**Languages**
-`TypeScript` `JavaScript` `Python` `Dart` `C++` `Java` `SQL`
-
-**Frontend**
-`React` `Next.js` `Tailwind CSS` `shadcn/ui` `Radix UI` `Framer Motion` `Three.js`
-
-**Backend & Data**
-`Node.js` `FastAPI` `PostgreSQL` `Supabase` `SQLite` `pgvector`
-
-**Mobile**
-`Flutter` `Android (native)`
-
-**Automation & AI**
-`n8n` `Playwright` `Apify` `OpenAI API` `Anthropic API` `Sentence Transformers` `Vector Embeddings`
-
-**Infra & Tools**
-`Docker` `Git` `GitHub Actions` `Cloudflare Tunnels` `Tailscale` `ESLint` `Prettier`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white)
 
 ---
 
-## Featured Projects
+### 🔥 things I've built
 
-### Collabryx
-AI-powered professional networking platform for students, founders, and mentors.
+<table>
+<tr>
+<td>
 
-`Next.js` `FastAPI` `PostgreSQL` `pgvector` `Supabase` `Three.js`
+**[Collabryx](https://github.com/user-ahsan/collabryx)** — AI networking platform
 
-384-dim vector embeddings for profile matching, real-time messaging, 3D visualizations, RBAC, rate limiting, bot detection.
+pgvector-powered profile matching with 384-dim embeddings, real-time messaging, 3D visualizations, full RLS + rate limiting + bot detection.
 
-[Code](https://github.com/user-ahsan/collabryx)
+`Next.js` `FastAPI` `pgvector` `Three.js`
 
----
+</td>
+<td>
 
-### Order Management System (FDH)
-Offline-first order management for a retail tailoring business — works on Android, iOS, Windows, macOS, Linux, and Web.
+**[FDH Order System](https://github.com/user-ahsan/fdh)** — offline-first order manager
 
-`Flutter` `Dart` `Riverpod` `Supabase` `SQLite`
+Works on 6 platforms. Local SQLite → Supabase sync, analytics dashboards, PDF job sheets, thermal printing, WhatsApp updates, corruption recovery.
 
-Customer records, measurements, payment tracking, analytics dashboard, PDF job sheets, thermal printer support, WhatsApp integration, corruption recovery system.
+`Flutter` `Riverpod` `Supabase`
 
-[Code](https://github.com/user-ahsan/fdh)
+</td>
+</tr>
+<tr>
+<td>
 
----
+**[Google Maps Scraper](https://github.com/user-ahsan/Google-Maps-Scrapper)** — listing extraction tool
 
-### CRM Platform
-Full B2B CRM frontend with deeply nested table views, order management, task tracking, team calendar, and role-based UI.
+Human-like scrolling, rotating user agents, auto-retry, dedup cache, live Google Sheets export. GUI + headless.
 
-`React` `TypeScript` `shadcn/ui`
+`Python` `Playwright` `SQLite`
 
-[Code](https://github.com/user-ahsan/crm)
+</td>
+<td>
 
----
+**[LinkedIn Auto-Poster](https://github.com/user-ahsan/linkedin-autoposter-googlesheet)** — scheduled posting bot
 
-### Google Maps Scraper Pro
-Desktop tool that scrapes business listings from Google Maps with anti-bot evasion, deduplication, and live Google Sheets export.
+Reads from Sheets or Markdown, headless/visible modes, retry logic, full CI pipeline with Husky + GitHub Actions.
 
-`Python` `Playwright` `SQLite` `Google Sheets API`
+`Node.js` `Playwright` `TypeScript`
 
-GUI + headless mode, pause/resume/retry, rotating user agents, dynamic schema.
+</td>
+</tr>
+<tr>
+<td>
 
-[Code](https://github.com/user-ahsan/Google-Maps-Scrapper)
+**[CRM Platform](https://github.com/user-ahsan/crm)** — B2B CRM frontend
 
----
+Deeply nested table views, order management, team calendar, role-based UI states.
 
-### LinkedIn Auto Poster
-Scheduled LinkedIn posting via browser automation. Reads from Google Sheets or Markdown files.
+`React` `shadcn/ui` `TypeScript`
 
-`Node.js` `TypeScript` `Playwright`
+</td>
+<td>
 
-ESLint + Prettier + Husky + GitHub Actions CI.
+**[Dental Clinic](https://github.com/user-ahsan/dental-clinic)** — multi-tenant clinic platform
 
-[Code](https://github.com/user-ahsan/linkedin-autoposter-googlesheet)
+Separate views for admin, doctor, receptionist, patient. RLS-based access control.
 
----
+`Next.js` `Supabase` `Radix UI`
 
-### Multilingual AI Customer Support
-AI support agent that detects customer language and routes replies through language-specific e-commerce prompts over WhatsApp and web chat.
-
-`n8n` `OpenAI` `WhatsApp API`
-
----
-
-### Dental Clinic Management System
-Multi-tenant clinic platform with separate views for admin, doctor, receptionist, and patient.
-
-`Next.js` `Supabase` `Material UI` `Radix UI`
-
-[Code](https://github.com/user-ahsan/dental-clinic)
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+### 🤖 automation & AI pipelines
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=user-ahsan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-ahsan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="160"/>
-</p>
+- **Multilingual AI Support Agent** — detects language on WhatsApp, routes through language-specific e-commerce prompts, keeps conversation memory, checks live inventory (`n8n` + `OpenAI`)
+- **AI Content Pipeline** — weekly scheduled topic generation with normalized memory context, auto-posts to LinkedIn via CLI tool (`n8n` + `OpenRouter` + `Python`)
+- **Lead Gen Automation** — scraping + enrichment + outreach pipeline (`Playwright` + `Apify`)
+
+---
+
+### 📊 the stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=user-ahsan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-ahsan&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=user-ahsan&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" height="170" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=user-ahsan&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" height="170" />
+
+</div>
 
 ---
 
 <div align="center">
 
-**Lahore, Pakistan** · Open to opportunities
+<img src="https://komarev.com/ghpvc/?username=user-ahsan&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+`console.log("thanks for stopping by")`
 
 </div>
