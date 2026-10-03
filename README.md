@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # Ahsan Ali
 
@@ -18,22 +18,22 @@ I build automation pipelines, AI-powered tools, and full-stack apps. I work dire
 
 ## Tech Stack
 
-**Languages**  
+**Languages**
 `TypeScript` `JavaScript` `Python` `Dart` `C++` `Java` `SQL`
 
-**Frontend**  
+**Frontend**
 `React` `Next.js` `Tailwind CSS` `shadcn/ui` `Radix UI` `Framer Motion` `Three.js`
 
-**Backend & Data**  
+**Backend & Data**
 `Node.js` `FastAPI` `PostgreSQL` `Supabase` `SQLite` `pgvector`
 
-**Mobile**  
+**Mobile**
 `Flutter` `Android (native)`
 
-**Automation & AI**  
+**Automation & AI**
 `n8n` `Playwright` `Apify` `OpenAI API` `Anthropic API` `Sentence Transformers` `Vector Embeddings`
 
-**Infra & Tools**  
+**Infra & Tools**
 `Docker` `Git` `GitHub Actions` `Cloudflare Tunnels` `Tailscale` `ESLint` `Prettier`
 
 ---
@@ -41,42 +41,71 @@ I build automation pipelines, AI-powered tools, and full-stack apps. I work dire
 ## Featured Projects
 
 ### Collabryx
-AI-powered professional networking platform for students, founders, and mentors.  
-`Next.js` `FastAPI` `PostgreSQL` `pgvector` `Supabase` `Three.js`  
-→ 384-dim vector embeddings for profile matching, real-time messaging, 3D visualizations, RBAC, rate limiting, bot detection.  
-[![Code](https://img.shields.io/badge/Code-grey?style=flat&logo=github)](https://github.com/user-ahsan/collabryx)
+AI-powered professional networking platform for students, founders, and mentors.
+
+`Next.js` `FastAPI` `PostgreSQL` `pgvector` `Supabase` `Three.js`
+
+384-dim vector embeddings for profile matching, real-time messaging, 3D visualizations, RBAC, rate limiting, bot detection.
+
+[Code](https://github.com/user-ahsan/collabryx)
+
+---
 
 ### Order Management System (FDH)
-Offline-first order management for a retail tailoring business — works on Android, iOS, Windows, macOS, Linux, and Web.  
-`Flutter` `Dart` `Riverpod` `Supabase` `SQLite`  
-→ Customer records, measurements, payment tracking, analytics dashboard, PDF job sheets, thermal printer support, WhatsApp integration, corruption recovery system.  
-[![Code](https://img.shields.io/badge/Code-grey?style=flat&logo=github)](https://github.com/user-ahsan/fdh)
+Offline-first order management for a retail tailoring business — works on Android, iOS, Windows, macOS, Linux, and Web.
+
+`Flutter` `Dart` `Riverpod` `Supabase` `SQLite`
+
+Customer records, measurements, payment tracking, analytics dashboard, PDF job sheets, thermal printer support, WhatsApp integration, corruption recovery system.
+
+[Code](https://github.com/user-ahsan/fdh)
+
+---
 
 ### CRM Platform
-Full B2B CRM frontend with deeply nested table views, order management, task tracking, team calendar, and role-based UI.  
-`React` `TypeScript` `shadcn/ui`  
-[![Code](https://img.shields.io/badge/Code-grey?style=flat&logo=github)](https://github.com/user-ahsan/crm)
+Full B2B CRM frontend with deeply nested table views, order management, task tracking, team calendar, and role-based UI.
+
+`React` `TypeScript` `shadcn/ui`
+
+[Code](https://github.com/user-ahsan/crm)
+
+---
 
 ### Google Maps Scraper Pro
-Desktop tool that scrapes business listings from Google Maps with anti-bot evasion, deduplication, and live Google Sheets export.  
-`Python` `Playwright` `SQLite` `Google Sheets API`  
-→ GUI + headless mode, pause/resume/retry, rotating user agents, dynamic schema.  
-[![Code](https://img.shields.io/badge/Code-grey?style=flat&logo=github)](https://github.com/user-ahsan/Google-Maps-Scrapper)
+Desktop tool that scrapes business listings from Google Maps with anti-bot evasion, deduplication, and live Google Sheets export.
+
+`Python` `Playwright` `SQLite` `Google Sheets API`
+
+GUI + headless mode, pause/resume/retry, rotating user agents, dynamic schema.
+
+[Code](https://github.com/user-ahsan/Google-Maps-Scrapper)
+
+---
 
 ### LinkedIn Auto Poster
-Scheduled LinkedIn posting via browser automation. Reads from Google Sheets or Markdown files.  
-`Node.js` `TypeScript` `Playwright`  
-→ ESLint + Prettier + Husky + GitHub Actions CI.  
-[![Code](https://img.shields.io/badge/Code-grey?style=flat&logo=github)](https://github.com/user-ahsan/linkedin-autoposter-googlesheet)
+Scheduled LinkedIn posting via browser automation. Reads from Google Sheets or Markdown files.
+
+`Node.js` `TypeScript` `Playwright`
+
+ESLint + Prettier + Husky + GitHub Actions CI.
+
+[Code](https://github.com/user-ahsan/linkedin-autoposter-googlesheet)
+
+---
 
 ### Multilingual AI Customer Support
-AI support agent that detects customer language and routes replies through language-specific e-commerce prompts over WhatsApp and web chat.  
+AI support agent that detects customer language and routes replies through language-specific e-commerce prompts over WhatsApp and web chat.
+
 `n8n` `OpenAI` `WhatsApp API`
 
+---
+
 ### Dental Clinic Management System
-Multi-tenant clinic platform with separate views for admin, doctor, receptionist, and patient.  
-`Next.js` `Supabase` `Material UI` `Radix UI`  
-[![Code](https://img.shields.io/badge/Code-grey?style=flat&logo=github)](https://github.com/user-ahsan/dental-clinic)
+Multi-tenant clinic platform with separate views for admin, doctor, receptionist, and patient.
+
+`Next.js` `Supabase` `Material UI` `Radix UI`
+
+[Code](https://github.com/user-ahsan/dental-clinic)
 
 ---
 
@@ -94,4 +123,3 @@ Multi-tenant clinic platform with separate views for admin, doctor, receptionist
 **Lahore, Pakistan** · Open to opportunities
 
 </div>
-]]>
